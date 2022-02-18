@@ -1,0 +1,27 @@
+.container {
+    margin-top: 100px;
+}
+
+.transport-area {
+    align-items: flex-end;
+}
+
+.lopende-band {
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.doos {
+    width: min-content;
+    padding: 2px;
+    background-color: lightblue;
+    text-align: center;
+    position: relative;
+}
+
+.ophaalbak {
+    background-color: greenyellow;
+    height: 80px;
+}
